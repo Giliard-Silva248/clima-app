@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/clima-app/static/css/main.df56641a.css",
+    "main.js": "/clima-app/static/js/main.59acc78d.js",
+    "static/media/chuvoso.jpg": "/clima-app/static/media/chuvoso.86d63198fdbb7b5ac97e.jpg",
+    "static/media/ventania.jpg": "/clima-app/static/media/ventania.675ddc4d0870bd57f4c0.jpg",
+    "static/media/neblina.jpg": "/clima-app/static/media/neblina.ba602402c01862a25333.jpg",
+    "static/media/limpo.jpg": "/clima-app/static/media/limpo.943240475e477675d230.jpg",
+    "index.html": "/clima-app/index.html",
+    "main.df56641a.css.map": "/clima-app/static/css/main.df56641a.css.map",
+    "main.59acc78d.js.map": "/clima-app/static/js/main.59acc78d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df56641a.css",
+    "static/js/main.59acc78d.js"
+  ]
+}
